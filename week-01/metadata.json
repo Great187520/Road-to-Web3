@@ -1,0 +1,47 @@
+{
+  "description": "This NFT proves I've depolyed an ERC721 Smart Contract Rinkey.",
+  "external_url": "https://alchemy.com",
+  "image": "https://ipfs.filebase.io/ipfs/bafkreicffkr434pg7pnsgvago66idfkvdzfegcfcx73am4blymnzhz77ne",
+  "name": "ERC721 PoK",
+  "attributes": [
+    {
+      "trait_type": "Nature",
+      "value": "War times"
+    },
+    {
+      "trait_type": "Website",
+      "value": "Alchemy.com"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "ERC721"
+    },
+    {
+      "trait_type": "Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Stamina",
+      "value": 1.4
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Artist"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Aqua Power",
+      "value": 40
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Stamina Increase",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 2
+    }
+  ]
+}
