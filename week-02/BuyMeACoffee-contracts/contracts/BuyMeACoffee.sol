@@ -61,6 +61,15 @@ contract BuyMeACoffee {
          require(owner.send(address(this).balance));
      }
 
+
+     /**
+     *@dev allow change the address for withdraw
+      */
+      function withdrawTipsTransfer(address payable _newOwer) public {
+          require(msg.sender == owner, "Only the owner can transfer the Tips!");
+          require(_newOwner.send(address(this).balance));
+      }
+
     /**
     *@ @dev retrieve all the memos received and stored on the blockchain
      */
