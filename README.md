@@ -58,7 +58,7 @@
 <br>
 <h2>Installation</h2>
 <ol>Clone the Repository</ol>
-'''git
+```git
 git clone https://github.com/Great187520/Road-to-Web3.git
 cd Road-to-Web3
-'''
+```
