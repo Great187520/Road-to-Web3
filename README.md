@@ -59,15 +59,54 @@
 <h2>Installation</h2>
 <em><ol>Clone the Repository</ol></em>
 <br>
+
+
 ```git
+
 git clone https://github.com/Great187520/Road-to-Web3.git
 cd Road-to-Web3
+
 ```
 
 <em><ol>Install Dependencies</ol></em>
 <p>Navigate into the appropriate directories (frontend/backend) and install dependencies:</p>
 
 <br>
+
 ```
+
 npm install
+
 ```
+
+
+<em><ol>Set Up Environment Variables</ol></em>
+<p>Create a .env file in the root directory and configure the following variables:</p>
+
+```
+ALCHEMY_API_KEY=your-alchemy-api-key
+INFURA_PROJECT_ID=your-infura-project-id
+WALLET_PRIVATE_KEY=your-private-key
+
+```
+
+<p>(Ensure your private key is secure and avoid exposing it publicly.)</p>
+
+<em><ol>Start the Development Server</ol></em>
+
+```
+<p>npm run dev</p>
+
+<h2>Usage</h2>
+<h3>Running the Frontend</h3>
+<p>Navigate to the frontend directory and start the application:</p>
+
+```bash
+
+cd frontend
+npm start
+
+```
+
+```
+
