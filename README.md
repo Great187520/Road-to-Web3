@@ -57,8 +57,17 @@
 
 <br>
 <h2>Installation</h2>
-<ol>Clone the Repository</ol>
+<em><ol>Clone the Repository</ol></em>
+<br>
 ```git
 git clone https://github.com/Great187520/Road-to-Web3.git
 cd Road-to-Web3
+```
+
+<em><ol>Install Dependencies</ol></em>
+<p>Navigate into the appropriate directories (frontend/backend) and install dependencies:</p>
+
+<br>
+```
+npm install
 ```
