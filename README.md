@@ -21,10 +21,10 @@
 <p>This repository provides an educational and practical journey into Web3 development, covering the following key areas:</p>
 
 <ul>
-  <li>Blockchain fundamentals.
-Smart contract development with Solidity.
-Frontend integration with Web3 libraries (e.g., ethers.js).
-Deploying dApps on platforms like Ethereum, Polygon, and more.</li>
+  <li>Blockchain fundamentals.</li>
+<li>Smart contract development with Solidity.</li>
+<li>Frontend integration with Web3 libraries (e.g., ethers.js).</li>
+<li>Deploying dApps on platforms like Ethereum, Polygon, and more.</li>
 </ul>
 
 <p>Whether you're a beginner or an experienced developer, 
@@ -35,25 +35,30 @@ Deploying dApps on platforms like Ethereum, Polygon, and more.</li>
 <p>This project utilizes the following tools and frameworks:</p>
 <ul>
   <li>
-    Frontend: React, Next.js, Tailwind CSS
-Blockchain: Ethereum, Solidity
-Libraries: ethers.js, web3.js
-Backend: Node.js, Express
-Smart Contract Testing: Hardhat, Chai
-Deployment: Alchemy, Infura, Vercel
-  </li>
+    Frontend: React, Next.js, Tailwind CSS</li>
+<li>Blockchain: Ethereum, Solidity</li>
+<li>Libraries: ethers.js, web3.js</li>
+<li>Backend: Node.js, Express</li>
+<li>Smart Contract Testing: Hardhat, Chai</li>
+<li>Deployment: Alchemy, Infura, Vercel</li>
+  
 </ul>
 <br>
 <h2>Features</h2>
 
 <ul>
   <li>
-    Comprehensive tutorials for Web3 development.
-Hands-on projects, including NFT minting, decentralized exchanges, and DAO creation.
-Integration of smart contracts with a React-based frontend.
-Optimized for learning with detailed comments and modular code structure.
+    Comprehensive tutorials for Web3 development.</li>
+<li>Hands-on projects, including NFT minting, decentralized exchanges, and DAO creation.</li>
+<li>Integration of smart contracts with a React-based frontend.</li>
+<li>Optimized for learning with detailed comments and modular code structure.
   </li>
 </ul>
 
 <br>
 <h2>Installation</h2>
+<ol>Clone the Repository</ol>
+'''git
+git clone https://github.com/Great187520/Road-to-Web3.git
+cd Road-to-Web3
+'''
