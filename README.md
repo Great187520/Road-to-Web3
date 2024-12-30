@@ -94,13 +94,13 @@ WALLET_PRIVATE_KEY=your-private-key
 
 <em><ol>Start the Development Server</ol></em>
 
-```
 
 <p>npm run dev</p>
 
 <h2>Usage</h2>
 <h3>Running the Frontend</h3>
 <p>Navigate to the frontend directory and start the application:</p>
+
 
 ```bash
 
