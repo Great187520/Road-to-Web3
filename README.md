@@ -95,6 +95,7 @@ WALLET_PRIVATE_KEY=your-private-key
 <em><ol>Start the Development Server</ol></em>
 
 ```
+
 <p>npm run dev</p>
 
 <h2>Usage</h2>
@@ -108,5 +109,90 @@ npm start
 
 ```
 
+<h3>Deploying Smart Contracts</h3>
+<p>Navigate to the contracts directory and use Hardhat to deploy the smart contracts:</p>
+
+```bash
+
+npx hardhat run scripts/deploy.js --network <network-name>
+
 ```
 
+<h3>Testing Contracts</h3>
+<p>Run unit tests to verify smart contract functionality:</p>
+
+```bash
+
+npx hardhat test
+
+```
+
+<h2>Project Structure</h2>
+
+```
+
+Road-to-Web3/
+│
+├── contracts/          # Solidity smart contracts
+├── frontend/           # React frontend application
+├── scripts/            # Deployment scripts
+├── test/               # Smart contract tests
+├── .env                # Environment variables
+├── .gitignore          # Files to ignore in Git
+├── README.md           # Project documentation
+└── package.json        # Node.js dependencies
+
+```
+
+<h2>Roadmap</h2>
+
+<ul>
+  <li> Introduction to blockchain and Ethereum.</li>
+ <li>Deploying a basic smart contract.</li>
+ <li>Integrating smart contracts with React.</li>
+ <li>Implementing advanced use cases like NFTs and DAOs.</li>
+ <li>Adding support for other blockchains (e.g., Polygon, Binance Smart Chain).</li>
+</ul>
+
+<h2>Contributing</h2>
+<p>Contributions are welcome! If you would like to contribute to this project, follow these steps:</p>
+
+<oL>
+  <li>Fork the repository.</li>
+<li>Create a new branch</li>
+
+
+```bash
+
+git checkout -b feature/your-feature-name
+
+```
+
+<li>Commit your changes</li>
+
+```bash
+
+git commit -m "Add your message here"
+
+```
+
+<li>Push to your branch.</li>
+
+```bash
+
+git push origin feature/your-feature-name
+
+```
+
+<li>Submit a Pull Request.</li>
+</ol>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License. See the LICENSE file for more details.</p>
+
+<h2>Contact</h2>
+<p>For questions or feedback, feel free to reach out:</p>
+<ul>
+  <li>GitHub: Great187520</li>
+  <li>Email: greateleke@gmail.com</li>
+</ul>
